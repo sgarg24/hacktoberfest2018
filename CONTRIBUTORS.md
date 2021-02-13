@@ -771,6 +771,11 @@ Place: Indore
 About: Opensource Enthusiast
 Programming Language: Go
 
+Name: [Sgarg](https://github.com/sgarg24)
+Place: India
+About: Beginner
+Programming Language: C++
+
 Name: [Vipul Sharma](https://github.com/vsvipul)<br/>
 Place: Dharamshala, India<br/>
 About: I am a sophomore at IIT Mandi<br/>
